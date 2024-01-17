@@ -1,0 +1,6 @@
+@BridgePatternAPI_HostAddress = http://localhost:5142
+
+GET {{BridgePatternAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
